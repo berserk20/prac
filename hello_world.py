@@ -6,7 +6,7 @@ print('\n')
 
 def personal_info():
 	print("This is my Introduction,")
-	print("I'm "+name+" \nI'm "+ str(age)+" year old"+"\nI'm "+prof)
+	print("I'm "+name+" \nI'm "+ str(age)+" year old"+"\nAnd i do is "+prof)
 
 personal_info()
 
